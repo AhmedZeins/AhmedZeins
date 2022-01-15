@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedZeins
 - 👀 I’m interested in coding in genral
-- 🌱 I’m currently learning C++s
-- 📫 How to reach me: linkedin.com/in/ahmedzeins
+- 🌱 I’m currently learning C++, Python, Data Analysis, Data Base  
+- 📫 How to reach me: linkedin.com/in/ahmedzeins , twitter.com/Ah_Zeinhussein
 
 
 <!---

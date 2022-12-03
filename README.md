@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedZeins
 - 👀 I’m interested in coding in genral
-- 🌱 I’m currently learning C++, Python, Data Analysis, Data Base  
+- 🌱 I’m currently learning DevOps, C++, Python, Data Analysis, Database  
 - 📫 How to reach me: linkedin.com/in/ahmedzeins , twitter.com/Ah_Zeinhussein
 
 
